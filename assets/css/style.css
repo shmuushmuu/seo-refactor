@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* We added an underline to the hovering links, which now pull the user to the appropriate section.*/ 
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -54,6 +56,7 @@ p {
     font-size: 16px;
 }
 
+/*The hero didn't need to be touched in any way. This is the large photo in the middle. */
 .hero {
     height: 800px;
     width: 100%;
@@ -79,6 +82,7 @@ p {
     margin-left: 20px;
 }
 
+/*These are for the main articles, underneath the hero, on the left side. I named this section articles, as opposed to the benefits section, */
 .article-settings {
     margin-bottom: 20px;
     padding: 50px;
@@ -96,6 +100,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/*The benefits section is on the lower right side.*/
 
 .benefits {
     margin-right: 20px;
