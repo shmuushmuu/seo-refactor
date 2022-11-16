@@ -90,17 +90,17 @@ p {
     background-color: #2589bd;
 }
 
-.benefits2 {
+.benefits-settings {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefits2 h3 {
+.benefits-settings h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefits2 img {
+.benefits-settings img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
