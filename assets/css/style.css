@@ -49,6 +49,7 @@ a {
     text-decoration: none;
 }
 
+/*This adds an underline to the links in the nav li.*/
 a:hover {
     text-decoration: underline;
 }
