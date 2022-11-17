@@ -79,7 +79,7 @@ photo in the middle of the page. */
     margin-left: 25px;
 }
 
-content {
+.content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -108,7 +108,7 @@ left side. I named this section articles, as opposed to the benefits section, */
 
 /*The benefits section is on the lower right side.*/
 
-benefits {
+.benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
